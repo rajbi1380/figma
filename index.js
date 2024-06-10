@@ -14,7 +14,6 @@ function scrollFunction() {
     mybutton.style.display = "none";
   }
 }
-mybutton.addEventListener("click", backToTop);
 
 function backToTop() {
   document.body.scrollTop = 0;
@@ -38,3 +37,4 @@ const tooltipTriggerList = document.querySelectorAll(
 const tooltipList = [...tooltipTriggerList].map(
   (tooltipTriggerEl) => new bootstrap.Tooltip(tooltipTriggerEl)
 );
+mybutton.addEventListener("click", backToTop);

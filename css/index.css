@@ -570,7 +570,7 @@ header,
 .section-profile .profile-card .social-links a:hover {
   transition: 0.3s;
   color: #012970;
-}/*.... end-profile*/
+} /*.... end-profile*/
 /*faq*/
 .section-faq .basic h6 {
   font-size: 18px;
@@ -601,7 +601,7 @@ header,
   bottom: 15px;
   z-index: 99999;
   background: #4154f1;
- 
+
   border-radius: 4px;
   transition: all 0.4s;
 }
@@ -609,7 +609,7 @@ header,
   font-size: 24px;
   color: #fff;
   line-height: 0;
-}/*contant*/
+} /*contant*/
 .section-contact .info-box {
   padding: 28px 30px;
 }
@@ -655,7 +655,7 @@ header,
   padding: 15px;
   margin-bottom: 24px;
   font-weight: 600;
-}/* end-contant*/
+} /* end-contant*/
 /*error*/
 @media screen and (min-width: 992px) {
   .error-img {
